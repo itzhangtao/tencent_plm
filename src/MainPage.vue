@@ -23,7 +23,6 @@
           设置
         </a-menu-item>
       </a-menu> -->
-      <!-- <a-avatar style="font-size:25px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" /> -->
       <div style="float:right;padding-right:16px">
         <a-avatar style="font-size:20px;margin-bottom:10px;" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
         <a-divider type="vertical" />
@@ -31,7 +30,7 @@
         <a-divider type="vertical" />
         <a-icon type="bell" style="font-size:20px;margin:0 10px;"/>
         <a-divider type="vertical" />
-        <a-icon type="logout" style="font-size:20px;margin:0 10px;"/>
+        <a-icon type="logout" style="font-size:20px;margin:0 10px;" @click="loginout"/>
       </div>
     </a-layout-header>
     <a-layout style="background:white;border-bottom:1px solid #f2f3f5;">
@@ -133,8 +132,11 @@ export default {
         })
     },
     methods:{
-      leftMenuChange(item, key){
-        this.menukey = key;
+      leftMenuChange(item){
+        this.menukey = item.key;
+      },
+      loginout(){
+        this.$router.push({path: '/login'})
       }
     }
 };
