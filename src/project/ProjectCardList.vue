@@ -6,7 +6,7 @@
         <a-card hoverable style="border-radius: 5px 30px 5px 5px;text-align:left" :bodyStyle="{ padding: '10px'}">
            <div style="margin-bottom: 10px"> 
               <a-tag color="#87d068" style="font-weight:bold">T</a-tag>
-              <a-avatar style="font-size:25px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
+              <a-avatar style="font-size:20px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
            </div>
            <div>TF-20210508-STXBQ</div>
            <div style="font-weight:bold">2021年99公益日</div>
@@ -15,7 +15,7 @@
            <div>结束：2021年9月10日</div>
            <div style="margin-top: 10px"> 
               <a-tag>公益平台</a-tag>
-              <a-icon theme="filled" type="play-circle" style="font-size:25px;color:#1890ff;float:right" />
+              <a-icon theme="filled" type="play-circle" style="font-size:20px;color:#1890ff;float:right" />
            </div>
         </a-card>
       </a-col>
@@ -23,7 +23,7 @@
         <a-card hoverable style="border-radius: 5px 30px 5px 5px;text-align:left" :bodyStyle="{ padding: '10px'}">
            <div style="margin-bottom: 10px"> 
               <a-tag color="#f50" style="font-weight:bold">T</a-tag>
-              <a-avatar style="font-size:25px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
+              <a-avatar style="font-size:20px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
            </div>
            <div>TF-20210508-STXBQ</div>
            <div style="font-weight:bold">2021年99公益日</div>
@@ -32,7 +32,7 @@
            <div>结束：2021年9月10日</div>
            <div style="margin-top: 10px"> 
               <a-tag style="font-size:13px">济困救灾</a-tag>
-              <a-icon theme="filled" type="play-circle" style="font-size:25px;color:#1890ff;float:right" />
+              <a-icon theme="filled" type="play-circle" style="font-size:20px;color:#1890ff;float:right" />
            </div>
         </a-card>
       </a-col>
@@ -40,7 +40,7 @@
         <a-card hoverable style="border-radius: 5px 30px 5px 5px;text-align:left" :bodyStyle="{ padding: '10px'}">
            <div style="margin-bottom: 10px">  
               <a-tag color="#87d068" style="font-weight:bold">T</a-tag>
-              <a-avatar style="font-size:25px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
+              <a-avatar style="font-size:20px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
            </div>
            <div>TF-20210508-STXBQ</div>
            <div style="font-weight:bold">2021年99公益日</div>
@@ -49,7 +49,7 @@
            <div>结束：2021年9月10日</div>
            <div style="margin-top: 10px"> 
               <a-tag>乡村振兴</a-tag>
-              <a-icon theme="filled" type="play-circle" style="font-size:25px;color:#1890ff;float:right" />
+              <a-icon theme="filled" type="play-circle" style="font-size:20px;color:#1890ff;float:right" />
            </div>
         </a-card>
       </a-col>
@@ -57,7 +57,7 @@
         <a-card hoverable style="border-radius: 5px 30px 5px 5px;text-align:left" :bodyStyle="{ padding: '10px'}">
            <div style="margin-bottom: 10px"> 
               <a-tag color="#f50" style="font-weight:bold">T</a-tag>
-              <a-avatar style="font-size:25px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
+              <a-avatar style="font-size:20px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
            </div>
            <div>TF-20210508-STXBQ</div>
            <div style="font-weight:bold">2021年99公益日</div>
@@ -66,7 +66,7 @@
            <div>结束：2021年9月10日</div>
            <div style="margin-top: 10px"> 
               <a-tag>公益平台</a-tag>
-              <a-icon theme="filled" type="play-circle" style="font-size:25px;color:#1890ff;float:right" />
+              <a-icon theme="filled" type="play-circle" style="font-size:20px;color:#1890ff;float:right" />
            </div>
         </a-card>
       </a-col>
@@ -77,7 +77,7 @@
         <a-card hoverable style="border-radius: 5px 30px 5px 5px;text-align:left" :bodyStyle="{ padding: '10px'}">
            <div style="margin-bottom: 10px"> 
               <a-tag color="#87d068" style="font-weight:bold">T</a-tag>
-              <a-avatar style="font-size:25px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
+              <a-avatar style="font-size:20px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
            </div>
            <div>TF-20210508-STXBQ</div>
            <div style="font-weight:bold">2021年99公益日</div>
@@ -86,7 +86,7 @@
            <div>结束：2021年9月10日</div>
            <div style="margin-top: 10px"> 
               <a-tag>公益平台</a-tag>
-              <a-icon theme="filled" type="play-circle" style="font-size:25px;color:#1890ff;float:right" />
+              <a-icon theme="filled" type="play-circle" style="font-size:20px;color:#1890ff;float:right" />
            </div>
         </a-card>
       </a-col>
@@ -94,7 +94,7 @@
         <a-card hoverable style="border-radius: 5px 30px 5px 5px;text-align:left" :bodyStyle="{ padding: '10px'}">
            <div style="margin-bottom: 10px"> 
               <a-tag color="#f50" style="font-weight:bold">T</a-tag>
-              <a-avatar style="font-size:25px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
+              <a-avatar style="font-size:20px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
            </div>
            <div>TF-20210508-STXBQ</div>
            <div style="font-weight:bold">2021年99公益日</div>
@@ -103,7 +103,7 @@
            <div>结束：2021年9月10日</div>
            <div style="margin-top: 10px"> 
               <a-tag style="font-size:13px">济困救灾</a-tag>
-              <a-icon theme="filled" type="play-circle" style="font-size:25px;color:#1890ff;float:right" />
+              <a-icon theme="filled" type="play-circle" style="font-size:20px;color:#1890ff;float:right" />
            </div>
         </a-card>
       </a-col>
@@ -111,7 +111,7 @@
         <a-card hoverable style="border-radius: 5px 30px 5px 5px;text-align:left" :bodyStyle="{ padding: '10px'}">
            <div style="margin-bottom: 10px"> 
               <a-tag color="#87d068" style="font-weight:bold">T</a-tag>
-              <a-avatar style="font-size:25px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
+              <a-avatar style="font-size:20px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
            </div>
            <div>TF-20210508-STXBQ</div>
            <div style="font-weight:bold">2021年99公益日</div>
@@ -120,7 +120,7 @@
            <div>结束：2021年9月10日</div>
            <div style="margin-top: 10px"> 
               <a-tag>乡村振兴</a-tag>
-              <a-icon theme="filled" type="play-circle" style="font-size:25px;color:#1890ff;float:right" />
+              <a-icon theme="filled" type="play-circle" style="font-size:20px;color:#1890ff;float:right" />
            </div>
         </a-card>
       </a-col>
@@ -128,7 +128,7 @@
         <a-card hoverable style="border-radius: 5px 30px 5px 5px;text-align:left" :bodyStyle="{ padding: '10px'}">
            <div style="margin-bottom: 10px"> 
               <a-tag color="#f50" style="font-weight:bold">T</a-tag>
-              <a-avatar style="font-size:25px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
+              <a-avatar style="font-size:20px;float:right" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />
            </div>
            <div>TF-20210508-STXBQ</div>
            <div style="font-weight:bold">2021年99公益日</div>
@@ -137,7 +137,7 @@
            <div>结束：2021年9月10日</div>
            <div style="margin-top: 10px"> 
               <a-tag>公益平台</a-tag>
-              <a-icon theme="filled" type="play-circle" style="font-size:25px;color:#1890ff;float:right" />
+              <a-icon theme="filled" type="play-circle" style="font-size:20px;color:#1890ff;float:right" />
            </div>
         </a-card>
       </a-col>

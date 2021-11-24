@@ -1,6 +1,6 @@
 <template>
   <div style="text-align:left;margin-top:16px;">
-    <p style="font-size:15px;font-weight:bold;"><a-icon type="profile" style="font-size:20px;color:#1890ff" />&nbsp;个人待办</p>
+    <span style="font-size:15px;font-weight:bold;"><a-icon type="profile" style="font-size:20px;color:#1890ff" />&nbsp;个人待办</span>
     <a-list item-layout="horizontal" :data-source="userInfos">
         <a-list-item slot="renderItem" slot-scope="item">
           <a-list-item-meta
@@ -95,7 +95,7 @@ const columns = [
 const data = [
   {
     key: 1,
-    name: '待处理',
+    name: '待处理(3)',
     details:'',
     children: [
       {
@@ -123,7 +123,7 @@ const data = [
   },
   {
     key: 2,
-    name: '已处理',
+    name: '已处理(3)',
     details:'',
     children: [
       {
